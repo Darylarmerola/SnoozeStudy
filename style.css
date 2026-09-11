@@ -1,0 +1,67 @@
+body{
+    margin-top: 0;
+    margin: 0;
+}
+.section1{
+    background-color: lightskyblue;
+    width: 30%;
+    height: 850px;
+    float:left;
+    margin: 0;    
+}
+.section2{
+
+    width:70%;
+    height: 850px;
+    float:right;
+}
+.avatar{
+    width: 200px;
+    height: 200px;
+    border: 5px darkblue;
+    border-radius: 150px;
+    margin:0 auto;
+    margin-top: 30px;
+    background-image: url('img.jpg');
+    background-position: center;
+    object-fit:cover;
+}
+
+.name{
+    text-align: center;
+    color:navy;
+}
+.course{
+    text-align: center;
+    
+}
+.gmail{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.add{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.linebreak{
+    background-color: navy;
+    height: 2px;
+     border: none;
+     margin: 20px;
+
+}
+h2{
+    color:navy;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: x-large;
+    font-weight: bold;
+    padding-left: 20px;
+}
+.message{
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-indent: 2h;
+}
